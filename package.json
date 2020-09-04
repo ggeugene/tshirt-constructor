@@ -6,7 +6,7 @@
     "file-saver": "^2.0.2",
     "html2canvas": "^1.0.0-rc.3",
     "lodash.template": "^4.5.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.9.0",
     "react-beautiful-dnd": "^11.0.5",
     "react-color": "^2.17.3",
